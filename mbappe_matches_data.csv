@@ -1,0 +1,301 @@
+Match_No,Club,Competition,Venue,Opponent,Opponent_Strength,Minutes_Played,Shots_On_Target,Goals_Last_5_Avg,Penalty_Taker,Fit,Goals
+1,France,International Friendly,Neutral,Australia,4,30,0,0.4,No,No,0
+2,France,International Friendly,Away,Italy,4,80,0,0.0,No,Yes,1
+3,France,International Friendly,Neutral,Tunisia,5,90,0,0.5,No,Yes,0
+4,France,UEFA Euro Qualifiers,Away,Croatia,5,70,0,0.33,No,Yes,0
+5,France,UEFA Euro Qualifiers,Neutral,Iceland,4,70,1,0.25,No,Yes,0
+6,France,UEFA Euro,Home,Italy,4,90,0,0.2,No,Yes,0
+7,France,World Cup Qualifiers,Neutral,Ukraine,3,85,0,0.2,Yes,Yes,0
+8,France,UEFA Euro,Away,Austria,4,60,0,0.0,Yes,Yes,0
+9,France,UEFA Euro Qualifiers,Neutral,Italy,2,15,0,0.0,No,Yes,0
+10,France,World Cup Qualifiers,Home,Italy,4,80,0,0.0,Yes,Yes,2
+11,France,UEFA Nations League,Neutral,USA,4,80,0,0.4,Yes,Yes,0
+12,France,UEFA Euro,Neutral,Luxembourg,4,90,1,0.4,No,Yes,0
+13,France,World Cup Qualifiers,Home,Germany,1,90,3,0.4,No,Yes,1
+14,France,World Cup,Away,Belgium,3,105,0,0.6,No,Yes,2
+15,France,World Cup Qualifiers,Away,Belgium,2,90,0,1.0,No,Yes,0
+16,France,UEFA Nations League,Neutral,Spain,4,70,1,0.6,Yes,No,0
+17,France,World Cup,Neutral,Netherlands,5,90,1,0.6,No,Yes,0
+18,France,UEFA Euro Qualifiers,Home,Italy,5,60,0,0.6,No,Yes,0
+19,France,World Cup Qualifiers,Home,Tunisia,2,90,0,0.4,No,No,0
+20,France,UEFA Euro Qualifiers,Home,Ukraine,3,90,0,0.0,Yes,Yes,1
+21,France,UEFA Nations League,Away,Spain,5,70,0,0.2,Yes,No,0
+22,France,International Friendly,Away,Poland,5,90,0,0.2,No,Yes,0
+23,France,International Friendly,Home,Netherlands,3,90,1,0.2,No,Yes,1
+24,France,UEFA Euro,Home,USA,4,90,0,0.4,Yes,Yes,0
+25,France,International Friendly,Home,Austria,2,45,0,0.4,Yes,Yes,0
+26,France,World Cup Qualifiers,Away,Germany,3,70,0,0.2,No,Yes,0
+27,France,UEFA Euro,Away,Morocco,1,75,1,0.2,Yes,Yes,0
+28,France,International Friendly,Neutral,Austria,5,90,1,0.2,No,Yes,1
+29,France,UEFA Nations League,Home,Australia,2,80,1,0.2,Yes,Yes,1
+30,France,International Friendly,Neutral,Morocco,3,70,2,0.4,No,Yes,0
+31,France,UEFA Euro Qualifiers,Home,Denmark,3,30,1,0.4,Yes,Yes,0
+32,France,World Cup Qualifiers,Neutral,Ukraine,4,105,1,0.4,No,Yes,0
+33,France,World Cup Qualifiers,Neutral,Australia,4,85,0,0.4,No,Yes,0
+34,France,UEFA Nations League,Neutral,Denmark,4,75,0,0.2,No,Yes,0
+35,France,UEFA Euro,Away,England,3,90,4,0.0,No,Yes,1
+36,France,World Cup Qualifiers,Away,Iceland,1,80,2,0.2,Yes,Yes,1
+37,France,International Friendly,Home,Argentina,4,30,1,0.4,No,No,0
+38,France,UEFA Euro,Home,Ukraine,4,60,0,0.4,No,No,0
+39,France,World Cup,Neutral,Canada,2,90,1,0.4,No,Yes,0
+40,France,World Cup Qualifiers,Away,Morocco,3,90,1,0.4,No,Yes,1
+41,France,World Cup,Home,England,4,90,2,0.4,Yes,Yes,1
+42,France,International Friendly,Home,Morocco,3,90,1,0.4,No,Yes,0
+43,France,UEFA Euro,Home,Iceland,3,90,0,0.4,No,Yes,0
+44,France,UEFA Nations League,Away,Netherlands,2,90,2,0.4,No,Yes,0
+45,France,World Cup Qualifiers,Neutral,Canada,5,85,0,0.4,No,Yes,1
+46,France,UEFA Nations League,Home,Tunisia,2,70,1,0.4,Yes,Yes,0
+47,France,UEFA Nations League,Neutral,Denmark,4,70,0,0.2,No,Yes,0
+48,France,UEFA Euro,Home,Luxembourg,4,120,0,0.2,No,Yes,1
+49,France,World Cup Qualifiers,Home,Iceland,5,25,0,0.4,Yes,Yes,0
+50,France,World Cup Qualifiers,Home,Germany,2,90,1,0.4,No,Yes,0
+51,France,UEFA Nations League,Away,Iceland,4,90,0,0.2,No,Yes,0
+52,France,International Friendly,Away,Canada,2,75,0,0.2,Yes,Yes,0
+53,France,UEFA Euro Qualifiers,Neutral,Denmark,3,80,2,0.2,No,Yes,0
+54,France,World Cup Qualifiers,Away,Morocco,5,120,0,0.0,No,Yes,1
+55,France,International Friendly,Neutral,Ukraine,3,90,1,0.2,No,Yes,0
+56,France,World Cup,Away,Poland,4,90,0,0.2,No,Yes,0
+57,France,International Friendly,Away,Italy,4,15,0,0.2,No,Yes,0
+58,France,International Friendly,Home,Argentina,4,70,0,0.2,No,Yes,0
+59,France,UEFA Euro Qualifiers,Neutral,Italy,2,75,1,0.2,No,Yes,0
+60,France,World Cup,Home,Canada,1,80,3,0.0,Yes,Yes,0
+61,France,UEFA Nations League,Away,Ukraine,4,90,0,0.0,Yes,Yes,1
+62,France,World Cup Qualifiers,Neutral,Iceland,4,80,2,0.2,No,Yes,0
+63,France,UEFA Euro Qualifiers,Away,Belgium,3,15,0,0.2,Yes,No,0
+64,France,World Cup,Away,Luxembourg,3,70,1,0.2,Yes,Yes,0
+65,France,UEFA Nations League,Away,Poland,1,45,1,0.2,Yes,Yes,1
+66,France,UEFA Nations League,Home,Croatia,2,80,1,0.4,Yes,Yes,1
+67,France,World Cup,Neutral,Belgium,1,45,0,0.4,Yes,Yes,0
+68,France,International Friendly,Home,Spain,4,90,4,0.4,No,Yes,0
+69,France,International Friendly,Neutral,Spain,3,60,0,0.4,Yes,Yes,0
+70,France,UEFA Nations League,Home,Belgium,2,90,0,0.4,No,Yes,0
+71,France,UEFA Euro,Neutral,USA,1,0,0,0.2,No,No,0
+72,France,International Friendly,Away,Denmark,3,70,1,0.0,No,Yes,0
+73,France,International Friendly,Away,Canada,3,75,0,0.0,No,Yes,1
+74,France,UEFA Nations League,Home,Netherlands,4,75,2,0.2,Yes,Yes,1
+75,France,World Cup Qualifiers,Neutral,Ukraine,3,85,2,0.4,No,Yes,2
+76,France,UEFA Euro,Away,Tunisia,1,120,2,0.8,No,Yes,2
+77,France,UEFA Nations League,Home,Croatia,2,90,1,1.2,No,Yes,1
+78,France,UEFA Euro,Home,Croatia,3,80,1,1.4,Yes,Yes,0
+79,France,International Friendly,Neutral,Belgium,5,120,0,1.2,Yes,No,1
+80,France,World Cup Qualifiers,Home,Ukraine,2,45,1,1.2,No,Yes,0
+81,France,International Friendly,Neutral,Argentina,2,95,1,0.8,Yes,Yes,2
+82,France,UEFA Nations League,Away,Portugal,2,60,2,0.8,No,Yes,0
+83,France,UEFA Euro,Neutral,Croatia,3,105,0,0.6,No,Yes,1
+84,France,World Cup Qualifiers,Away,Spain,3,85,3,0.8,No,Yes,0
+85,France,World Cup,Neutral,Iceland,3,90,3,0.6,Yes,Yes,0
+86,France,World Cup,Away,Belgium,2,45,1,0.6,No,Yes,0
+87,France,World Cup Qualifiers,Neutral,England,3,45,0,0.2,No,Yes,0
+88,France,International Friendly,Away,Poland,5,85,1,0.2,Yes,Yes,1
+89,France,International Friendly,Away,Belgium,3,75,0,0.2,Yes,Yes,0
+90,France,UEFA Euro Qualifiers,Away,Italy,1,70,1,0.2,No,Yes,0
+91,France,UEFA Nations League,Neutral,Netherlands,2,85,3,0.2,No,Yes,0
+92,France,UEFA Euro Qualifiers,Home,Australia,3,90,2,0.2,No,Yes,0
+93,France,International Friendly,Neutral,Luxembourg,5,90,1,0.2,No,Yes,0
+94,France,UEFA Nations League,Away,Iceland,3,60,0,0.0,No,Yes,0
+95,France,International Friendly,Neutral,Portugal,1,75,1,0.0,Yes,No,2
+96,France,UEFA Euro,Neutral,Spain,2,90,1,0.4,Yes,Yes,1
+97,France,International Friendly,Away,Argentina,1,90,1,0.6,Yes,No,0
+98,France,International Friendly,Neutral,Luxembourg,4,80,2,0.6,No,Yes,0
+99,France,UEFA Euro,Home,Belgium,1,0,0,0.6,No,Yes,0
+100,France,International Friendly,Home,Denmark,2,90,1,0.6,No,Yes,0
+101,France,International Friendly,Neutral,Portugal,3,75,0,0.2,Yes,Yes,0
+102,France,UEFA Euro,Neutral,Denmark,3,120,1,0.0,No,Yes,1
+103,France,UEFA Euro Qualifiers,Away,Argentina,4,90,1,0.2,Yes,Yes,1
+104,France,World Cup Qualifiers,Away,Austria,2,85,0,0.4,No,Yes,0
+105,France,International Friendly,Home,USA,5,80,0,0.4,No,Yes,0
+106,France,World Cup Qualifiers,Home,Morocco,4,60,0,0.4,Yes,Yes,1
+107,France,UEFA Nations League,Home,Portugal,2,90,0,0.6,No,Yes,0
+108,France,World Cup,Neutral,England,4,90,0,0.4,No,Yes,0
+109,France,UEFA Nations League,Away,Poland,4,45,1,0.2,No,No,0
+110,France,World Cup,Home,Iceland,2,30,0,0.2,No,Yes,0
+111,France,International Friendly,Away,Canada,2,80,1,0.2,No,Yes,0
+112,France,UEFA Euro,Away,Iceland,3,60,2,0.0,No,Yes,0
+113,France,International Friendly,Neutral,Canada,3,0,0,0.0,No,Yes,0
+114,France,UEFA Euro Qualifiers,Neutral,Croatia,3,80,1,0.0,No,Yes,0
+115,France,International Friendly,Away,Spain,5,105,2,0.0,Yes,Yes,0
+116,France,World Cup Qualifiers,Neutral,Poland,3,80,0,0.0,No,Yes,0
+117,France,International Friendly,Away,England,3,90,1,0.0,No,Yes,0
+118,France,UEFA Euro,Home,Argentina,2,75,2,0.0,No,Yes,1
+119,France,UEFA Nations League,Home,Spain,3,120,3,0.2,Yes,No,1
+120,France,World Cup,Neutral,Italy,2,85,2,0.4,No,No,0
+121,France,UEFA Euro,Neutral,Denmark,1,90,2,0.4,No,Yes,3
+122,France,World Cup Qualifiers,Away,Netherlands,3,75,1,1.0,Yes,Yes,0
+123,France,International Friendly,Away,Canada,5,120,0,1.0,Yes,Yes,0
+124,France,International Friendly,Away,Portugal,3,60,1,0.8,No,Yes,0
+125,France,International Friendly,Neutral,Canada,3,45,1,0.6,No,Yes,0
+126,France,International Friendly,Home,Croatia,1,85,0,0.6,No,Yes,0
+127,France,UEFA Euro,Home,Tunisia,5,80,0,0.0,No,Yes,1
+128,France,International Friendly,Away,Morocco,3,90,2,0.2,Yes,Yes,1
+129,France,UEFA Euro,Home,Austria,2,90,1,0.4,No,Yes,0
+130,France,UEFA Euro,Home,Tunisia,3,90,0,0.4,No,Yes,0
+131,France,UEFA Nations League,Home,Portugal,3,90,2,0.4,No,Yes,0
+132,France,World Cup Qualifiers,Away,Belgium,2,90,1,0.4,Yes,Yes,0
+133,France,International Friendly,Away,England,3,90,0,0.2,No,No,0
+134,France,World Cup Qualifiers,Away,Iceland,3,85,2,0.0,Yes,Yes,0
+135,France,World Cup Qualifiers,Home,Morocco,3,70,0,0.0,Yes,Yes,1
+136,France,International Friendly,Away,Iceland,2,45,1,0.2,Yes,Yes,1
+137,France,UEFA Nations League,Home,Belgium,3,80,0,0.4,No,Yes,0
+138,France,International Friendly,Home,Luxembourg,2,85,1,0.4,Yes,Yes,0
+139,France,World Cup Qualifiers,Away,Tunisia,4,120,2,0.4,No,Yes,0
+140,France,UEFA Euro,Away,Ukraine,2,90,0,0.4,No,Yes,1
+141,France,UEFA Euro,Away,Italy,1,45,2,0.4,No,Yes,0
+142,France,World Cup,Neutral,Canada,2,90,3,0.2,Yes,Yes,0
+143,France,UEFA Euro,Away,Belgium,3,75,1,0.2,No,Yes,2
+144,France,International Friendly,Neutral,Denmark,3,90,1,0.6,No,Yes,0
+145,France,International Friendly,Neutral,Morocco,4,70,1,0.6,Yes,Yes,1
+146,France,World Cup Qualifiers,Home,Croatia,3,90,1,0.6,No,Yes,0
+147,France,International Friendly,Neutral,Portugal,2,85,1,0.6,Yes,Yes,1
+148,France,UEFA Euro Qualifiers,Away,Tunisia,3,80,4,0.8,Yes,Yes,2
+149,France,UEFA Euro,Home,Netherlands,2,30,0,0.8,Yes,No,0
+150,France,World Cup Qualifiers,Neutral,Portugal,3,90,0,0.8,No,Yes,1
+151,France,UEFA Euro,Neutral,USA,2,90,1,0.8,Yes,Yes,1
+152,France,World Cup Qualifiers,Home,Portugal,3,90,1,1.0,No,Yes,0
+153,France,UEFA Nations League,Home,England,2,80,4,0.8,Yes,Yes,1
+154,France,World Cup Qualifiers,Away,Italy,1,85,1,0.6,No,Yes,0
+155,France,World Cup,Neutral,Morocco,4,15,1,0.6,Yes,Yes,0
+156,France,UEFA Euro Qualifiers,Away,Italy,4,60,1,0.4,No,Yes,0
+157,France,UEFA Nations League,Neutral,Morocco,5,85,2,0.2,No,Yes,0
+158,France,UEFA Nations League,Neutral,Austria,5,95,2,0.2,Yes,Yes,0
+159,France,UEFA Euro Qualifiers,Home,Canada,2,45,0,0.0,No,Yes,0
+160,France,UEFA Nations League,Home,Belgium,3,70,1,0.0,Yes,Yes,0
+161,France,World Cup Qualifiers,Away,Portugal,1,90,1,0.0,Yes,Yes,1
+162,France,World Cup Qualifiers,Neutral,Italy,3,70,0,0.2,No,Yes,0
+163,France,World Cup,Away,Belgium,3,90,1,0.2,No,Yes,0
+164,France,World Cup,Home,Italy,3,80,3,0.2,No,Yes,1
+165,France,International Friendly,Neutral,Tunisia,5,85,0,0.4,No,Yes,0
+166,France,World Cup,Away,Luxembourg,4,80,1,0.4,Yes,Yes,0
+167,France,International Friendly,Home,Denmark,4,75,3,0.2,Yes,Yes,0
+168,France,World Cup,Away,Tunisia,2,30,0,0.2,No,Yes,0
+169,France,International Friendly,Neutral,Tunisia,3,105,2,0.2,Yes,Yes,0
+170,France,UEFA Nations League,Home,Denmark,3,80,0,0.0,Yes,Yes,0
+171,France,UEFA Nations League,Home,Belgium,1,60,0,0.0,No,Yes,0
+172,France,UEFA Nations League,Away,Australia,1,90,3,0.0,Yes,No,0
+173,France,UEFA Euro,Neutral,USA,1,80,0,0.0,Yes,Yes,1
+174,France,World Cup Qualifiers,Home,Belgium,3,105,3,0.2,No,Yes,0
+175,France,World Cup Qualifiers,Home,Iceland,2,15,1,0.2,Yes,Yes,0
+176,France,UEFA Nations League,Home,Luxembourg,4,80,0,0.2,No,Yes,0
+177,France,World Cup,Away,Luxembourg,2,90,2,0.2,No,No,0
+178,France,UEFA Euro,Away,Portugal,1,95,0,0.2,Yes,Yes,0
+179,France,UEFA Nations League,Home,Netherlands,3,75,0,0.0,Yes,Yes,0
+180,France,International Friendly,Neutral,Germany,5,85,5,0.0,Yes,Yes,0
+181,France,International Friendly,Home,Italy,3,15,0,0.0,No,Yes,0
+182,France,World Cup,Home,USA,3,25,0,0.0,Yes,Yes,0
+183,France,International Friendly,Neutral,Germany,3,70,1,0.0,No,Yes,0
+184,France,UEFA Nations League,Neutral,Netherlands,2,105,2,0.0,No,Yes,1
+185,France,International Friendly,Away,Iceland,4,25,0,0.2,No,Yes,0
+186,France,UEFA Nations League,Away,Spain,1,105,0,0.2,Yes,Yes,1
+187,France,International Friendly,Neutral,Netherlands,1,45,0,0.4,No,No,0
+188,France,UEFA Euro,Neutral,Poland,2,90,3,0.4,Yes,Yes,2
+189,France,UEFA Nations League,Away,Iceland,2,25,0,0.8,Yes,Yes,0
+190,France,UEFA Nations League,Away,Croatia,3,75,3,0.6,No,Yes,0
+191,France,UEFA Nations League,Neutral,Luxembourg,3,30,1,0.6,Yes,Yes,1
+192,France,World Cup Qualifiers,Neutral,Australia,4,90,1,0.6,No,Yes,0
+193,France,UEFA Euro Qualifiers,Home,Belgium,4,90,0,0.6,Yes,Yes,1
+194,France,World Cup,Away,Portugal,5,90,1,0.4,No,Yes,0
+195,France,International Friendly,Home,Morocco,3,45,0,0.4,Yes,Yes,0
+196,France,World Cup Qualifiers,Neutral,Luxembourg,1,25,0,0.4,Yes,Yes,1
+197,France,UEFA Euro,Away,Spain,3,75,1,0.4,Yes,Yes,0
+198,France,UEFA Euro,Home,Austria,4,70,0,0.4,Yes,Yes,0
+199,France,International Friendly,Away,Tunisia,3,90,1,0.2,No,Yes,1
+200,France,UEFA Euro Qualifiers,Home,Portugal,3,75,0,0.4,No,Yes,0
+201,France,UEFA Euro,Away,Canada,2,90,0,0.4,Yes,Yes,2
+202,France,UEFA Euro Qualifiers,Home,Ukraine,3,90,0,0.6,Yes,Yes,0
+203,France,World Cup Qualifiers,Neutral,Portugal,5,90,1,0.6,No,Yes,1
+204,France,World Cup Qualifiers,Away,USA,1,60,1,0.8,Yes,Yes,0
+205,France,International Friendly,Home,Iceland,4,90,3,0.6,No,Yes,0
+206,France,International Friendly,Neutral,Tunisia,2,60,0,0.6,No,Yes,0
+207,France,World Cup Qualifiers,Away,Belgium,3,90,0,0.2,No,Yes,0
+208,France,International Friendly,Away,Australia,1,90,3,0.2,No,Yes,1
+209,France,UEFA Nations League,Home,Belgium,2,75,0,0.2,No,No,0
+210,France,UEFA Nations League,Neutral,England,4,45,1,0.2,No,Yes,1
+211,France,World Cup Qualifiers,Neutral,Morocco,3,15,0,0.4,No,Yes,0
+212,France,International Friendly,Away,Portugal,3,80,1,0.4,Yes,Yes,0
+213,France,UEFA Euro,Home,Iceland,2,85,2,0.4,No,Yes,1
+214,France,World Cup,Neutral,Denmark,3,90,1,0.4,Yes,Yes,0
+215,France,UEFA Nations League,Home,Argentina,2,70,1,0.4,No,Yes,0
+216,France,World Cup,Away,Luxembourg,4,90,0,0.2,No,Yes,0
+217,France,International Friendly,Away,Croatia,4,90,2,0.2,No,Yes,0
+218,France,International Friendly,Home,Argentina,2,0,0,0.2,Yes,Yes,0
+219,France,UEFA Nations League,Neutral,Ukraine,3,45,0,0.0,No,Yes,0
+220,France,International Friendly,Neutral,USA,3,90,0,0.0,No,Yes,0
+221,France,World Cup Qualifiers,Away,Canada,3,90,2,0.0,No,Yes,4
+222,France,International Friendly,Away,Portugal,3,85,0,0.8,Yes,Yes,1
+223,France,World Cup Qualifiers,Away,Germany,2,90,4,1.0,No,Yes,2
+224,France,UEFA Euro Qualifiers,Away,Italy,5,75,1,1.4,Yes,Yes,0
+225,France,World Cup Qualifiers,Neutral,Austria,1,90,2,1.4,No,Yes,2
+226,France,International Friendly,Neutral,Canada,2,90,1,1.8,No,Yes,1
+227,France,International Friendly,Neutral,Portugal,2,90,4,1.2,No,Yes,0
+228,France,UEFA Euro,Away,Luxembourg,5,60,0,1.0,Yes,Yes,1
+229,France,World Cup Qualifiers,Neutral,Denmark,3,80,2,0.8,No,Yes,0
+230,France,UEFA Nations League,Away,Denmark,2,70,2,0.8,Yes,Yes,0
+231,France,International Friendly,Neutral,Ukraine,2,45,1,0.4,Yes,Yes,0
+232,France,International Friendly,Neutral,Croatia,4,90,0,0.2,No,Yes,0
+233,France,International Friendly,Away,Denmark,4,120,1,0.2,No,Yes,1
+234,France,UEFA Nations League,Home,Italy,1,30,0,0.2,No,Yes,0
+235,France,UEFA Euro Qualifiers,Neutral,Tunisia,3,90,6,0.2,No,Yes,1
+236,France,World Cup Qualifiers,Home,Denmark,2,70,1,0.4,Yes,Yes,1
+237,France,World Cup,Home,Poland,3,80,1,0.6,Yes,No,1
+238,France,World Cup Qualifiers,Home,Austria,4,90,2,0.8,No,Yes,0
+239,France,International Friendly,Away,Croatia,2,60,0,0.6,Yes,Yes,1
+240,France,UEFA Nations League,Away,Italy,4,70,1,0.8,No,Yes,0
+241,France,UEFA Nations League,Away,Denmark,2,80,0,0.6,No,Yes,0
+242,France,World Cup Qualifiers,Home,Spain,2,45,0,0.4,Yes,Yes,0
+243,France,World Cup,Home,Belgium,3,60,0,0.2,No,Yes,0
+244,France,UEFA Euro,Neutral,Denmark,3,90,1,0.2,Yes,No,1
+245,France,International Friendly,Away,Poland,5,25,0,0.2,No,No,0
+246,France,World Cup Qualifiers,Home,Croatia,2,90,0,0.2,No,Yes,0
+247,France,World Cup,Away,Germany,3,75,1,0.2,No,Yes,0
+248,France,UEFA Nations League,Home,Austria,2,0,0,0.2,Yes,No,0
+249,France,UEFA Nations League,Home,Tunisia,4,105,1,0.2,Yes,Yes,0
+250,France,UEFA Euro,Neutral,Italy,4,105,0,0.0,No,Yes,0
+251,France,UEFA Euro,Away,Netherlands,2,105,3,0.0,No,Yes,0
+252,France,UEFA Euro,Home,Poland,3,45,0,0.0,No,Yes,0
+253,France,World Cup Qualifiers,Home,Canada,5,30,0,0.0,No,Yes,0
+254,France,World Cup,Neutral,Australia,3,45,1,0.0,No,Yes,0
+255,France,UEFA Euro Qualifiers,Home,USA,2,60,0,0.0,No,Yes,0
+256,France,International Friendly,Away,Iceland,3,90,1,0.0,Yes,Yes,0
+257,France,UEFA Nations League,Neutral,Portugal,3,90,2,0.0,No,No,1
+258,France,World Cup Qualifiers,Away,Iceland,2,60,1,0.2,No,Yes,0
+259,France,UEFA Nations League,Home,Iceland,4,80,2,0.2,No,Yes,0
+260,France,UEFA Euro,Home,Italy,3,90,2,0.2,Yes,Yes,4
+261,France,World Cup,Away,Netherlands,2,45,2,1.0,Yes,No,0
+262,France,International Friendly,Home,England,2,90,1,1.0,No,Yes,0
+263,France,UEFA Nations League,Away,Canada,2,60,0,0.8,Yes,Yes,0
+264,France,International Friendly,Neutral,Belgium,1,90,2,0.8,Yes,Yes,1
+265,France,UEFA Euro Qualifiers,Home,Spain,1,90,0,1.0,Yes,Yes,1
+266,France,International Friendly,Neutral,Ukraine,2,90,0,0.4,No,Yes,0
+267,France,International Friendly,Away,Australia,5,90,0,0.4,No,Yes,1
+268,France,World Cup Qualifiers,Home,Australia,1,30,0,0.6,No,Yes,0
+269,France,UEFA Euro,Away,Morocco,4,90,1,0.6,No,Yes,2
+270,France,UEFA Euro Qualifiers,Neutral,Argentina,3,0,0,0.8,Yes,Yes,0
+271,France,UEFA Euro Qualifiers,Away,Luxembourg,2,90,1,0.6,Yes,Yes,1
+272,France,UEFA Euro,Neutral,USA,4,60,0,0.8,No,Yes,0
+273,France,UEFA Euro,Neutral,Argentina,2,75,1,0.6,No,Yes,0
+274,France,International Friendly,Neutral,Spain,3,120,1,0.6,Yes,Yes,0
+275,France,UEFA Nations League,Home,Netherlands,1,90,1,0.2,No,Yes,1
+276,France,International Friendly,Away,Austria,3,90,2,0.4,No,Yes,0
+277,France,UEFA Nations League,Home,Spain,3,90,1,0.2,Yes,Yes,0
+278,France,International Friendly,Neutral,England,3,80,1,0.2,No,Yes,1
+279,France,World Cup,Away,Portugal,1,105,1,0.4,No,No,0
+280,France,World Cup,Home,Argentina,1,80,4,0.4,No,Yes,0
+281,France,World Cup,Home,England,3,85,0,0.2,Yes,Yes,0
+282,France,UEFA Euro Qualifiers,Neutral,Portugal,3,90,0,0.2,Yes,Yes,0
+283,France,UEFA Nations League,Away,Austria,4,90,2,0.2,Yes,Yes,1
+284,France,UEFA Nations League,Neutral,Austria,1,90,1,0.2,No,Yes,0
+285,France,International Friendly,Neutral,Argentina,5,85,0,0.2,No,Yes,0
+286,France,International Friendly,Home,Netherlands,4,95,2,0.2,Yes,Yes,0
+287,France,International Friendly,Neutral,Argentina,3,60,0,0.2,Yes,Yes,0
+288,France,UEFA Nations League,Home,Ukraine,3,90,2,0.2,No,Yes,0
+289,France,International Friendly,Neutral,Australia,3,85,0,0.0,Yes,No,0
+290,France,UEFA Nations League,Home,Iceland,1,90,0,0.0,Yes,Yes,0
+291,France,International Friendly,Away,Spain,4,70,0,0.0,No,Yes,1
+292,France,International Friendly,Neutral,Belgium,1,90,0,0.2,No,Yes,0
+293,France,International Friendly,Away,England,2,70,1,0.2,No,No,0
+294,France,International Friendly,Neutral,USA,5,85,3,0.2,No,Yes,1
+295,France,International Friendly,Home,Denmark,4,90,2,0.4,No,Yes,1
+296,France,World Cup Qualifiers,Neutral,Morocco,4,70,2,0.6,No,No,1
+297,France,International Friendly,Away,Canada,3,80,0,0.6,Yes,Yes,0
+298,France,UEFA Euro,Away,Spain,4,60,2,0.6,Yes,Yes,0
+299,France,UEFA Nations League,Away,Australia,5,45,0,0.6,No,Yes,0
+300,France,International Friendly,Away,Poland,5,90,2,0.4,No,Yes,2
